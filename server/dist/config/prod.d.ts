@@ -1,0 +1,28 @@
+declare const _default: {
+    GMAIL_PASS: string | undefined;
+    GMAIL_USER: string | undefined;
+    FROM_ADMIN_EMAIL: string | undefined;
+    userSubject: string | undefined;
+    port: string | undefined;
+    BASE_URL: string | undefined;
+    FRONTEND_BASE_URL: string | undefined;
+    DATABASE_URL: string | undefined;
+    APP_SECRETE: string | undefined;
+    JWT_SECRETE: string | undefined;
+    DATABASE_USERNAME: string | undefined;
+    DATABASE_HOST: string | undefined;
+    DATABASE_DATABASE_NAME: string | undefined;
+    DATABASE_PASSWORD: string | undefined;
+    DATABASE_PORT: string | undefined;
+    GOOGLE_CLIENT_SECRET: string | undefined;
+    GOOGLE_CALLBACK_URL: string | undefined;
+    GOOGLE_CLIENT_ID: string | undefined;
+    FACEBOOK_CLIENT_ID: string | undefined;
+    FACEBOOK_CLIENT_SECRET: string | undefined;
+    CALL_BACK_kURL: string | undefined;
+    SESSION_SECRET: string | undefined;
+    CLOUD_NAME: string | undefined;
+    CLOUD_API_KEY: string | undefined;
+    CLOUD_API_SECRET: string | undefined;
+};
+export default _default;
